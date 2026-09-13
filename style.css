@@ -1,0 +1,11 @@
+:root {
+    --white: #FCFAF9;
+    --onyx: #161412;
+    --grey: #9FB4BC;
+    --red: #8A1919;
+    --green: #0C4524;
+}
+
+.page {
+    font-family: "Roboto", sans-serif;
+}
